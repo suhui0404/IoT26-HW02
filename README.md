@@ -1,4 +1,4 @@
-# IoT Team-J HW02 - Button Controlled LED
+# IoT26 Team-J HW02 - Button Controlled LED
 
 ## 1. Objective
 
